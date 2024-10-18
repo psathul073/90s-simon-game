@@ -16,7 +16,7 @@ A web browser (latest versions of Chrome, Firefox, Safari, or Edge)
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/90s-simon-game.git
+   git clone https://github.com/psathul073/90s-simon-game.git
 2. Navigate to the project directory:
    ```bash
    cd 90s-simon-game
